@@ -1749,9 +1749,9 @@
       <ActiveTab>0</ActiveTab>
       <Doc>
         <Name>.\TestFile.c</Name>
-        <ColumnNumber>10</ColumnNumber>
+        <ColumnNumber>12</ColumnNumber>
         <TopLine>1</TopLine>
-        <CurrentLine>4</CurrentLine>
+        <CurrentLine>3</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
